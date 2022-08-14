@@ -14,8 +14,7 @@ function App() {
         <Route path='/projects' component={Projects}/>
         <Route path='/skills' component={Skills}/>
         <Route path='/contact' component={Contact}/>
-        <h1> Hello </h1>
-        <button className="btn btn-success"> Ok </button>
+    
       </BrowserRouter>
     </div>
   );
