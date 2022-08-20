@@ -6,6 +6,7 @@ function Home() {
     <div>
     <img src="/images/photo-1.jpg" alt="Profile photo" width="150px" />
     <p> Hello my name is Khaled</p>
+    <p> I am Web developer.</p>
     <img src={devImage} alt="Web Image" width="40%" />
     </div>
   )
